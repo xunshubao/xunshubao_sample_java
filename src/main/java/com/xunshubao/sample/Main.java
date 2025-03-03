@@ -29,10 +29,10 @@ public class Main {
 //        apiService.requestZxgkCheckForCompany(zxgkCheckCompanyForm);
 
         // 执行公开核验接口-个人
-//        ZxgkSearchForm zxgkCheckCompanyForm = new ZxgkSearchForm();
-//        zxgkCheckCompanyForm.setName(name);
-//        zxgkCheckCompanyForm.setCardNum(cardNum);
-//        apiService.requestZxgkCheckForPerson(zxgkCheckCompanyForm);
+//        ZxgkSearchForm zxgkCheckPersonForm = new ZxgkSearchForm();
+//        zxgkCheckPersonForm.setName(name);
+//        zxgkCheckPersonForm.setCardNum(cardNum);
+//        apiService.requestZxgkCheckForPerson(zxgkCheckPersonForm);
 
         // 失信核验接口-企业
 //        ZxgkSearchForm checkCompanyForm = new ZxgkSearchForm();
